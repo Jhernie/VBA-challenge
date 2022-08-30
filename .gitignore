@@ -1,3 +1,8 @@
+.DS_Store
+alphabetical_testing.xlsx
+Multiple_year_stock_data.xlsx
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
